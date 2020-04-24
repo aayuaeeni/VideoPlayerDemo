@@ -15,7 +15,6 @@ public class Player2Activity extends AppCompatActivity
 {
     private com.devbrackets.android.exomedia.ui.widget.EMVideoView videoView;
 
-
     private ImageView ivBackArrow;
     private String videoUrl = "";
 
